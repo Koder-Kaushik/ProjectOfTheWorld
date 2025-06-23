@@ -25,3 +25,20 @@ The script loops through supported images and compresses them by reducing their 
 
 >![image](https://github.com/user-attachments/assets/bee7ef27-6baf-4636-8e49-bab238a348e1)
 
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- PIL (Pillow)
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/yourusername/image-size-reducer.git
+cd image-size-reducer
+pip install -r requirements.txt
+
