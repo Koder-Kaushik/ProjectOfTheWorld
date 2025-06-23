@@ -23,4 +23,5 @@ The script loops through supported images and compresses them by reducing their 
 
 ## 📸 Screenshots
 
-> Add your screenshots here using this format:
+>![image](https://github.com/user-attachments/assets/bee7ef27-6baf-4636-8e49-bab238a348e1)
+
